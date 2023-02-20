@@ -1,0 +1,11 @@
+body {
+    height: 100vh;
+    margin: 0;
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.cursor {
+    width: 30px;
+    transition: all ease;
+}
